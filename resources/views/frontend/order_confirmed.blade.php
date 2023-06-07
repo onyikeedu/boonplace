@@ -36,7 +36,7 @@
                         <div class="col active">
                             <div class="text-center text-primary">
                                 <i class="la-3x mb-2 las la-check-circle"></i>
-                                <h3 class="fs-14 fw-600 d-none d-lg-block">{{ translate('5. Confirmation')}}</h3>
+                                <h3 class="fs-14 fw-600 d-none d-lg-block">{{ translate('5. Confirm')}}</h3>
                             </div>
                         </div>
                     </div>
